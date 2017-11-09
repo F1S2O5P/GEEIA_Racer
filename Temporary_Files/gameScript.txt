@@ -64,8 +64,21 @@ List of Available Vehicles with Parameters
 			Moc			54/6000
 			Moment obrotowy		79/4000
 			Iloœæ biegów		5
-			Masa w³asna		775
+			Masa w³asna		1215
 			Przeniesienie napêdu	FWD
+			Prowadzenie 		0...100 pkt
+			Hamowanie 		0...100 pkt
+			Przyspieszenie		0...100 pkt	
+	Poziom 2
+		BMW E36 Compact
+			Cena			500
+			Prêdkoœæ Maksymalna 	150
+			Pojemnosc silnika 	1596
+			Moc			102/5500
+			Moment obrotowy		150/3900
+			Iloœæ biegów		5
+			Masa w³asna		1215
+			Przeniesienie napêdu	RWD
 			Prowadzenie 		0...100 pkt
 			Hamowanie 		0...100 pkt
 			Przyspieszenie		0...100 pkt	
