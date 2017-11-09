@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GEEIA_Racer", "GEEIA_Racer.csproj", "{BEDED0DE-650D-2635-296D-1B2C4C1AC765}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GEEIA_Racer", "Assembly-CSharp.csproj", "{D6B874B5-464D-7110-7CCE-551E40DE95C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,12 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BEDED0DE-650D-2635-296D-1B2C4C1AC765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BEDED0DE-650D-2635-296D-1B2C4C1AC765}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BEDED0DE-650D-2635-296D-1B2C4C1AC765}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BEDED0DE-650D-2635-296D-1B2C4C1AC765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B874B5-464D-7110-7CCE-551E40DE95C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B874B5-464D-7110-7CCE-551E40DE95C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B874B5-464D-7110-7CCE-551E40DE95C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B874B5-464D-7110-7CCE-551E40DE95C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
