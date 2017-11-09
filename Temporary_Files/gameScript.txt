@@ -1,0 +1,84 @@
+Game Rules
+	Waluta -> "Per³a"
+	Waluta Specjalna -> "ECTS"
+	Kurs -> 1 ECTS = 250 Pere³
+
+Types of Vehicles Parameters
+	Cena 			Iloœc Pere³
+	Prêdkoœæ Maksymalna 	Km/h
+	Pojemnosc silnika 	Ccm
+	Moc			KM przy Rpm/min
+	Moment obrotowy		Nm przy Rpm/min
+	Iloœæ biegów		
+	Masa w³asna		Kg
+	Przeniesienie napêdu	FWD/RWD/AWD		
+	Prowadzenie 		0...100 pkt
+	Hamowanie 		0...100 pkt
+	Przyspieszenie		0...100 pkt
+
+List of Available Vehicles with Parameters
+	Poziom 1
+		Daewoo Tico
+			Cena 			90
+			Prêdkoœæ Maksymalna	143
+			Pojemnosc silnika 	796
+			Moc			41/5500
+			Moment obrotowy		60/2500	
+			Iloœæ biegów		5
+			Masa w³asna 		640
+			Przeniesienie napêdu	FWD		
+			Prowadzenie 		0...100 pkt
+			Hamowanie 		0...100 pkt
+			Przyspieszenie		0...100 pkt	
+			
+		Fiat Cinquecento
+			Cena			90
+			Prêdkoœæ Maksymalna 	140
+			Pojemnosc silnika	903
+			Moc			41/5500
+			Moment obrotowy		65/3000
+			Iloœæ biegów		5
+			Masa w³asna		700
+			Przeniesienie napêdu	FWD
+			Prowadzenie 		0...100 pkt
+			Hamowanie 		0...100 pkt
+			Przyspieszenie		0...100 pkt	
+
+		Volkswagen Polo
+			Cena			100
+			Prêdkoœæ Maksymalna	151
+			Pojemnosc silnika 	999
+			Moc			50/5000
+			Moment obrotowy		86/3000
+			Iloœæ biegów		5
+			Masa w³asna 		880
+			Przeniesienie napêdu	FWD
+			Prowadzenie 		0...100 pkt
+			Hamowanie 		0...100 pkt
+			Przyspieszenie		0...100 pkt	
+
+		Nissan Micra
+			Cena			100
+			Prêdkoœæ Maksymalna 	150
+			Pojemnosc silnika 	998
+			Moc			54/6000
+			Moment obrotowy		79/4000
+			Iloœæ biegów		5
+			Masa w³asna		775
+			Przeniesienie napêdu	FWD
+			Prowadzenie 		0...100 pkt
+			Hamowanie 		0...100 pkt
+			Przyspieszenie		0...100 pkt	
+			
+Game Progression
+	1. Gracz otrzymuje na start 100 Pere³ i musi kupiæ 1 z 4 samochodów poziomu 1.
+	2. Gracz przechodzi misjê treningow¹ œcigaj¹c siê z Szerszeniem. Po wygranej otrzymuje 10 pere³.
+	3. Gracz œciga siê z przeciwnikami, po wygranym wyœcigu otrzymujê nagrodê w zale¿noœci od poziomu samochodu. Powtarzaj 	  	   krok dopóki nie uzyskasz odpowiedniej iloœci Pere³ aby zakupiæ punkty ECTS.
+	4. Po zakupie iloœci punktów ECTS œcigaj siê z bossem odpowiedniego poziomu.
+	5. Po pokonaniu 2go bossa odblokuj specjalny wyœcig z Bogiem Spajsem w Tramwaju.
+	6. Powtarzaj kroki 3,4 do momentu dojœcia do ostatniego bossa.
+End of The Game
+	Otrzymujesz dyplom króla wyœcigów WEEIA.
+	
+	
+	
